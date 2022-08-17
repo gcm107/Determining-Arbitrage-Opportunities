@@ -31,7 +31,7 @@ To use this notebook for your own anaylyis, you will:
 <b>
 
 This Image shows an the price of BTC on two different exchanges, for a single day.
-![Crypto Arbitrage](Arbitrage%20Visualization.jpeg)
+![Crypto Arbitrage](Arbitrage_Visualization.jpeg)
 
 
 
